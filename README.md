@@ -1,6 +1,6 @@
 <div align='center'>
 
-# :octocat: Welcome to my github! I'm Rafa.
+# :octocat: Bienvenido a mi GitHub :).
 </div>
 
 ### Programador junior full stack, con conocimientos en C++, Python y Javascript/Typescript. 
