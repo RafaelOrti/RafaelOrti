@@ -6,7 +6,7 @@
 ### Programador junior full stack, con conocimientos en C++, Python y Javascript/Typescript. 
 Échale un vistazo a mis repositorios, sé que algo te gustará.
 <div align='center'>
-
+ 
   <a href='https://github.com/RafaelOrti'>
     <img height='180em' src= 'https://github-readme-stats.vercel.app/api?username=RafaelOrti&theme=radical&show_icons=true&count_private=true&custom_title=My%20Github%20Stats'>
     <img height='180em' src= 'https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelOrti&theme=radical&langs_count=10&layout=compact'>
