@@ -50,6 +50,10 @@
 #
   <img height='125em' src="https://github-readme-stats.vercel.app/api/wakatime?username=@RafaelOrti&custom_title=Languages%20That%20I'm%20Working%20This%20Week&range=last_7_days&layout=compact&theme=radical&border_radius=2%&border_color=808080">
   <img height='125em' src= 'https://github-readme-streak-stats.herokuapp.com/?user=RafaelOrti&theme=radical'>
+  <img
+  src="https://github.com/RafaelOrti/RafaelOrti/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
 
   ![Snake animation dark](https://raw.githubusercontent.com/RafaelOrti/RafaelOrti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Snake animation light](https://raw.githubusercontent.com/RafaelOrti/RafaelOrti/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
