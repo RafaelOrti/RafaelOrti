@@ -3,8 +3,7 @@
 # :octocat: Welcome to my github! I'm Rafa.
 </div>
 
-### Here I share my open source projects to the world. Make sure to take a glance in some of it, I know that you'll like something.
-I'm a full stack developer, with knowledge in many things and specialized in python.
+### Programador junior full stack, con conocimientos en C++, Python y Javascript/Typescript. Échale un vistazo a mis repositorios, sé que algo te gustará.
 <div align='center'>
 
   <a href='https://github.com/RafaelOrti'>
