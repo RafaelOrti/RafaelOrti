@@ -3,7 +3,8 @@
 # :octocat: Welcome to my github! I'm Rafa.
 </div>
 
-### Programador junior full stack, con conocimientos en C++, Python y Javascript/Typescript. Échale un vistazo a mis repositorios, sé que algo te gustará.
+### Programador junior full stack, con conocimientos en C++, Python y Javascript/Typescript. 
+Échale un vistazo a mis repositorios, sé que algo te gustará.
 <div align='center'>
 
   <a href='https://github.com/RafaelOrti'>
