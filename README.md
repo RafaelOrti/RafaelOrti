@@ -3,7 +3,7 @@
 # :octocat: Bienvenido a mi GitHub
 </div>
  
-### Programador full stack, con conocimientos en C++, Python y Javascript/Typescript. 
+### Programador full stack, con conocimientos en Javascript/Typescript, docker, CI/CD, AWS elastic Beanstalk, kubernetes además de C++ y Python
 Échale un vistazo a mis repositorios, seguro que algo te gustará :)
 <div align='center'>
     
